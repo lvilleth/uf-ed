@@ -3,7 +3,7 @@ Este repositório contem soluções para exercícios **Spoj** utilizados como pr
 Problemas solucionados:
 - [X]  Fun with Sequences
 - [X]  ADAINDEX
-- [ ]  Sanidade
+- [X]  Sanidade
 - [ ]  ONP
 - [ ]  ADAQUEUE
 - [ ]  TREEORD
