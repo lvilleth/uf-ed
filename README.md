@@ -4,8 +4,8 @@ Problemas solucionados:
 - [X]  Fun with Sequences
 - [X]  ADAINDEX
 - [X]  Sanidade
-- [ ]  ONP
-- [ ]  ADAQUEUE
+- [X]  ONP
+- [X]  ADAQUEUE
 - [ ]  TREEORD
 - [ ]  NICEBTREE
 - [ ]  BST
