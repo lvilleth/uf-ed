@@ -58,13 +58,12 @@ class TREEORD{
     No raiz = preencheNo(0, n-1);
     arv.setRaiz(raiz);
 
-    //System.out.print("pre: ");
     arv.preOrdem();
-    //System.out.print("\n in: ");
+
     arv.inOrdem();
-    //System.out.print("\npos: ");
+
     arv.posOrdem();
-    //System.out.println();
+
 
     if(correct)
       yes();
@@ -80,7 +79,6 @@ class TREEORD{
     int raiz = pre[preIndex++];
     No no = new No(raiz);
 
-    //System.out.println(""+raiz+"  "+inicio+"  "+fim);
     if(inicio == fim){
       return no;
     }
@@ -184,8 +182,6 @@ class TREEORD{
       if (N == null)
         return;
 
-      //System.out.print(""+N.getDado());
-
       if(N.getEsq() != null)
         preOrdem(N.getEsq());
 
@@ -208,8 +204,6 @@ class TREEORD{
         return;
       }
 
-      //System.out.print(""+N.getDado());
-
       if(N.getDir() != null)
         inOrdem(N.getDir());
     }
@@ -231,8 +225,7 @@ class TREEORD{
         correct = false;
         return;
       }
-
-      //System.out.print(""+N.getDado());
+ 
     }
 
   }
