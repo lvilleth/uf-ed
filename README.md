@@ -7,8 +7,8 @@ Problemas solucionados:
 - [X]  ONP
 - [X]  ADAQUEUE
 - [X]  TREEORD
-- [ ]  NICEBTREE
-- [ ]  BST
-- [ ]  OMWG
+- [X]  NICEBTREE
+- [X]  BST
+- [X]  OMWG
 - [ ]  Hash It
 
